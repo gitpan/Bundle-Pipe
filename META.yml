@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Bundle-Pipe
+version: 0.01
+author:
+  - Gabor Szabo <gabor@pti.co.il>
+abstract: Additional Tubes for the Pipe module
+license: perl
+generated_by: Module::Build version 0.2612, without YAML.pm

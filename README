@@ -1,0 +1,26 @@
+NAME
+    Bundle::Pipe - Additional Tubes for the Pipe module
+
+SYNOPSIS
+    Install:
+
+     perl -MCPAN -e 'install Bundle::Pipe'
+
+    Or:
+
+     $> cpan
+     cpan> install Bundle::Pipe
+     cpan> quit
+
+    Specifically in the case of this module it is less important to have a
+    log of the
+
+AUTHOR
+     Gabor Szabo <gabor@pti.co.il>
+
+COPYRIGHT
+     Copyright 2006 by Gabor Szabo L<http://www.pti.co.il>.
+
+     This program is free software; you can redistribute it and/or
+     modify it under the same terms as Perl itself.
+
